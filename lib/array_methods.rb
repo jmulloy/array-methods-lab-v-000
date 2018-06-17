@@ -1,5 +1,5 @@
 def using_include(array, element)
-  array.include?(elemnet)
+  array.include?(elemeet)
 end
 
 def using_sort(array)
